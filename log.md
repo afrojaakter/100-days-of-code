@@ -1,30 +1,30 @@
 # 100 Days Of Code - Log
+### Day1: 
+***Today's Progress:*** Started working on a responsive webpage. Today I worked on the homepage and login and signup page. 
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+***Thoughts:*** I just got started to work with CSS and HTML on a project. I am nervous about my work progress. Hopefully I will do little better than today. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to work:** [Responsive Webpage](https://github.com/afrojaakter/100-days-of-coding/tree/main/Day1)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day2: 
+***Today's Progress:*** Today I worked on more buttons and organized login and signup popup modal using Bootstrap 
 
-**Link to work:** [Calculator App](http://www.example.com)
+***Thoughts:*** I am feeling little better than yesterday about my progress.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** [Responsive Webpage](https://github.com/afrojaakter/100-days-of-coding/tree/main/Day2)
+### Day3: 
+***Today's Progress:*** Added footer with social icon buttons. Also worked on a static login/signup page with html and plane css.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+***Thoughts:*** I was too distracted to work on the static page and spent a lot of time on it. Finally got the look I wanted. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Responsive Webpage](https://github.com/afrojaakter/100-days-of-coding/tree/main/Day3)
 
 
-### Day 1: June 27, Monday
+### Day4: 
+***Today's Progress:*** Worked on the home page. Changed the style. Switched from boostrap to vanilla CSS. Also practiced some SQL problems in Hackerrank
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+***Thoughts:*** Felt like didn't get much work done. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** 
+1. [Responsive Webpage]
+2. [SQL paractice problems] (https://github.com/afrojaakter/100-days-of-coding/tree/main/Day4)
