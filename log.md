@@ -23,7 +23,7 @@
 ### Day4: 
 ***Today's Progress:*** Worked on the home page. Changed the style. Switched from boostrap to vanilla CSS. Also practiced some SQL problems in Hackerrank
 
-***Thoughts:*** Felt like didn't get much work done. 
+***Thoughts:*** Feel like didn't get much work done. 
 
 **Link to work:** 
 1. [Responsive Webpage]
