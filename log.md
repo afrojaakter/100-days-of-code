@@ -21,10 +21,16 @@
 
 
 ### Day4: 
-***Today's Progress:*** oday's Progress: Worked on the home page style. Switched from bootstrap to vanilla CSS. Practiced some SQL problems in Hacker rank.
+***Today's Progress:*** Today's Progress: Worked on the home page style. Switched from bootstrap to vanilla CSS. Practiced some SQL problems in Hacker rank.
 
 ***Thoughts:*** Feel like didn't get much work done. 
 
 **Link to work:** 
 1. [Responsive Webpage]
+2. [SQL paractice problems] (https://github.com/afrojaakter/SQL-PracticeProblem)
+
+### Day5: 
+***Today's Progress:*** Practiced few SQL problems in Hacker rank. 
+
+**Link to work:** 
 2. [SQL paractice problems] (https://github.com/afrojaakter/SQL-PracticeProblem)
