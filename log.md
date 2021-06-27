@@ -42,3 +42,24 @@
 
 **Link to work:** [SQL paractice problems] (https://github.com/afrojaakter/SQL-PracticeProblem)
 
+### Day7: 
+***Today's Progress:*** Again Practiced few SQL problems in Hacker rank. Learning Reinforcement Learning. 
+
+***Thoughts:*** Need to be more focused on getting work done rather than getting distructed on learning something else along the way. 
+
+**Link to work:** [SQL paractice problems] (https://github.com/afrojaakter/SQL-PracticeProblem)
+
+### Day8: 
+***Today's Progress:*** Practiced few advance SQL problems in Hacker rank, achieved Gold level on sql problem solving. Worked on a javascript drup kit app. 
+
+***Thoughts:*** Not feeling like not to post it on twitter. I thought I will get more work done. 
+
+**Link to work:** [SQL paractice problems] (https://github.com/afrojaakter/SQL-PracticeProblem)
+
+### Day9: 
+***Today's Progress:*** Again Practiced few basic join SQL problems in Hacker rank, achieved Gold level on sql problem solving. Learning Reinforcement Learning. Also worked on form data saving in a txt file. 
+
+***Thoughts:*** I think I need to put all of my attention on one tast at a time.
+
+**Link to work:** [SQL paractice problems] (https://github.com/afrojaakter/SQL-PracticeProblem)
+
