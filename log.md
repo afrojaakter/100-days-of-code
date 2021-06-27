@@ -54,7 +54,9 @@
 
 ***Thoughts:*** Not feeling like not to post it on twitter. I thought I will get more work done. 
 
-**Link to work:** [SQL paractice problems] (https://github.com/afrojaakter/SQL-PracticeProblem)
+**Link to work:** 
+1. [SQL paractice problems] (https://github.com/afrojaakter/SQL-PracticeProblem)
+2. [JS Drum Kit] (https://github.com/afrojaakter/JavascriptProjects/tree/main)
 
 ### Day9: 
 ***Today's Progress:*** Again Practiced few basic join SQL problems in Hacker rank.
