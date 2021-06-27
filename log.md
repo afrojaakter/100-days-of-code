@@ -43,7 +43,7 @@
 **Link to work:** [SQL paractice problems] (https://github.com/afrojaakter/SQL-PracticeProblem)
 
 ### Day7: 
-***Today's Progress:*** Again Practiced few SQL problems in Hacker rank. Learning Reinforcement Learning. 
+***Today's Progress:*** Again Practiced few SQL problems in Hacker rank. Learning about Reinforcement Learning, Computer Vision. 
 
 ***Thoughts:*** Need to be more focused on getting work done rather than getting distructed on learning something else along the way. 
 
