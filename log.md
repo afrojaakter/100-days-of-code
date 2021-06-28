@@ -59,9 +59,9 @@
 2. [JS Drum Kit] (https://github.com/afrojaakter/JavascriptProjects/tree/main)
 
 ### Day9: 
-***Today's Progress:*** Again Practiced few basic join SQL problems in Hacker rank.
+***Today's Progress:*** Finished JS Drum Kit project.
 
-***Thoughts:*** I think I need to put all of my attention on one tast at a time.
+***Thoughts:*** I think I need to put all of my attention on one tast at a time which helped me today.
 
 **Link to work:** 
 [JS Drum Kit] (https://github.com/afrojaakter/JavascriptProjects)
