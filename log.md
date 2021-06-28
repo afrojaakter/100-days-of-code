@@ -63,5 +63,5 @@
 
 ***Thoughts:*** I think I need to put all of my attention on one tast at a time.
 
-**Link to work:** [SQL paractice problems] (https://github.com/afrojaakter/SQL-PracticeProblem)
-
+**Link to work:** 
+[JS Drum Kit] (https://github.com/afrojaakter/JavascriptProjects)
