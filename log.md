@@ -65,3 +65,10 @@
 
 **Link to work:** 
 [JS Drum Kit] (https://github.com/afrojaakter/JavascriptProjects)
+
+### Day10: 
+***Today's Progress:*** I am woring on reinforcement learning project: CartPole.
+
+***Thoughts:*** I still feel uncomfortable to post in twitter. 
+**Link to work:** 
+[CartPole] (https://github.com/afrojaakter/Deep-Reinforcement-Learning)
