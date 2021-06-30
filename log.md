@@ -72,3 +72,12 @@
 ***Thoughts:*** I still feel uncomfortable to post in twitter. 
 **Link to work:** 
 [CartPole] (https://github.com/afrojaakter/Deep-Reinforcement-Learning)
+
+### Day11: 
+***Today's Progress:*** Made a JS clock app. More than 50% work done on reinforcement learning project: CartPole.
+
+***Thoughts:*** I feel good today about getting some work done in the morning. 
+**Link to work:** 
+[JS clock] (https://github.com/afrojaakter/Deep-Reinforcement-Learning)
+[CartPole] (https://github.com/afrojaakter/Deep-Reinforcement-Learning)
+(https://github.com/afrojaakter/JavascriptProjects)
