@@ -78,6 +78,6 @@
 
 ***Thoughts:*** I feel good today about getting some work done in the morning. 
 **Link to work:** 
+
 [JS clock] (https://github.com/afrojaakter/Deep-Reinforcement-Learning)
-[CartPole] (https://github.com/afrojaakter/Deep-Reinforcement-Learning)
-(https://github.com/afrojaakter/JavascriptProjects)
+[CartPole] (https://github.com/afrojaakter/JavascriptProjects)
