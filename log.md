@@ -81,3 +81,11 @@
 
 [JS clock] (https://github.com/afrojaakter/Deep-Reinforcement-Learning)
 [CartPole] (https://github.com/afrojaakter/JavascriptProjects)
+
+### Day12: 
+***Today's Progress:*** Played around with CSS variavles. 
+
+***Thoughts:*** I didn't get much work done in last couple of days. Again not feeling like to post in twitter. 
+**Link to work:** 
+
+[CSS_Variable] (https://github.com/afrojaakter/JavascriptProjects)
