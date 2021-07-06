@@ -83,9 +83,18 @@
 [CartPole] (https://github.com/afrojaakter/JavascriptProjects)
 
 ### Day12: 
-***Today's Progress:*** Played around with CSS variavles. 
+***Today's Progress:*** Worked with CSS variavles. 
 
 ***Thoughts:*** I didn't get much work done in last couple of days. Again not feeling like to post in twitter. 
 **Link to work:** 
 
 [CSS_Variable] (https://github.com/afrojaakter/JavascriptProjects)
+
+### Day13: 
+***Today's Progress:*** Worked on a crome extension. 
+
+***Thoughts:*** Trying to stay motivated. 
+**Link to work:** 
+
+[Chrome Extension] (https://github.com/afrojaakter/JavascriptProjects/tree/main/chromeExtension)
+
