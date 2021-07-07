@@ -98,3 +98,11 @@
 
 [Chrome Extension] (https://github.com/afrojaakter/JavascriptProjects/tree/main/chromeExtension)
 
+### Day14: 
+***Today's Progress:*** Built a NLP classifier to analysis News Headline sentiment. Worked little bit more on crome extension. 
+
+***Thoughts:*** fill good today. 
+**Link to work:** 
+
+[News Headline Sentiment Analysis] (https://github.com/afrojaakter/Natural-Language-Processing)
+
