@@ -106,3 +106,9 @@
 
 [News Headline Sentiment Analysis] (https://github.com/afrojaakter/Natural-Language-Processing)
 
+### Day15: 
+***Today's Progress:*** Built a NLP classifier using transfer learning to review movies as positive or negative using the review text.
+***Thoughts:*** Fills good to be back at working on ML projects. 
+**Link to work:** 
+
+[IMDBmovieReview] (https://github.com/afrojaakter/Natural-Language-Processing/blob/main/TextClassification_IMDBmovieReview.ipynb)
