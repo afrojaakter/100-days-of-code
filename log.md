@@ -123,7 +123,7 @@
 [GeneratingText] (https://github.com/afrojaakter/Natural-Language-Processing/blob/main/GeneratingTextLSTM.ipynb)
 
 
-### Day16: 
+### Day17: 
 ***Today's Progress:*** Practiced two AI problems and one har SQL problem in Hackerrank.
 
 ***Thoughts:*** For some reason during the weekend, I don't feel motivted. 
