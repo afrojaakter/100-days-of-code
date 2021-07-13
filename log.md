@@ -108,6 +108,7 @@
 
 ### Day15: 
 ***Today's Progress:*** Built a NLP classifier using transfer learning to review movies as positive or negative using the review text.
+
 ***Thoughts:*** Fills good to be back at working on ML projects. 
 
 **Link to work:** 
@@ -115,7 +116,17 @@
 
 ### Day16: 
 ***Today's Progress:*** Built a NLP model to generate text.
+
 ***Thoughts:*** I read few research paper today. I wish I could work on code little more. 
 
 **Link to work:** 
 [GeneratingText] (https://github.com/afrojaakter/Natural-Language-Processing/blob/main/GeneratingTextLSTM.ipynb)
+
+
+### Day16: 
+***Today's Progress:*** Practiced two AI problems and one har SQL problem in Hackerrank.
+
+***Thoughts:*** For some reason during the weekend, I don't feel motivted. 
+
+**Link to work:** 
+[AI Problems] (https://github.com/afrojaakter/AI-practice-problem/tree/main)
