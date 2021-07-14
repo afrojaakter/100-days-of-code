@@ -130,3 +130,11 @@
 
 **Link to work:** 
 [AI Problems] (https://github.com/afrojaakter/AI-practice-problem/tree/main)
+
+### Day18: 
+***Today's Progress:*** Practiced two AI problems and one har SQL problem in Hackerrank.
+
+***Thoughts:***  
+
+**Link to work:** 
+[JS Array Method] (https://github.com/afrojaakter/JavascriptProjects)
