@@ -138,3 +138,12 @@
 
 **Link to work:** 
 [JS Array Method] (https://github.com/afrojaakter/JavascriptProjects)
+
+### Day19: 
+***Today's Progress:*** Worked on a language model to train on Cloud TPU, that predict the next character of text given the text so far. Also practiced few more SQL problems in CodeSignal.
+
+***Thoughts:***  
+
+**Link to work:** 
+[NLP language model](https://github.com/afrojaakter/Natural-Language-Processing/blob/main/PredictShakespeare.ipynb)
+[Code Signal SQL Problems](https://app.codesignal.com/profile/afrojaakter)
