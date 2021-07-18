@@ -155,3 +155,11 @@
 
 **Link to work:** 
 [NLP text classifier BERT model](https://github.com/afrojaakter/Natural-Language-Processing/blob/main/TestClassification_withBERT.ipynb)
+
+### Day21: 
+***Today's Progress:*** Finished working on a simple NLP text classification with BERT model. Started working on a Recommendation system algorithm:  Retrieval strategy part.  
+
+***Thoughts:*** I have difficulty about writing my thoughts :grin:
+
+**Link to work:** 
+[NLP text classifier BERT model](https://github.com/afrojaakter/Natural-Language-Processing/blob/main/TestClassification_withBERT.ipynb)
