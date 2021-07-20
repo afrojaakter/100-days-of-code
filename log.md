@@ -163,3 +163,11 @@
 
 **Link to work:** 
 [NLP text classifier BERT model](https://github.com/afrojaakter/Natural-Language-Processing/blob/main/TestClassification_withBERT.ipynb)
+
+### Day22: 
+***Today's Progress:*** Learned about Gaussian Process (GP) and worked on the code to build GP model from scratch.
+
+***Thoughts:*** 
+
+**Link to work:** 
+[NLP text classifier BERT model](https://github.com/afrojaakter/Surrogate-Based-Optimization)
