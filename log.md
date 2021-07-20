@@ -146,7 +146,7 @@
 
 **Link to work:** 
 [NLP language model](https://github.com/afrojaakter/Natural-Language-Processing/blob/main/PredictShakespeare.ipynb)
-[Gaussian Process](https://app.codesignal.com/profile/afrojaakter)
+[Code Signal](https://app.codesignal.com/profile/afrojaakter)
 
 ### Day20: 
 ***Today's Progress:*** Worked on a NLP text classification BERT model. 
@@ -170,4 +170,4 @@
 ***Thoughts:*** 
 
 **Link to work:** 
-[NLP text classifier BERT model](https://github.com/afrojaakter/Surrogate-Based-Optimization)
+[Gaussian Process](https://github.com/afrojaakter/Surrogate-Based-Optimization)
