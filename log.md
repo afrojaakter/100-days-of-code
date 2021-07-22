@@ -173,7 +173,7 @@
 [Gaussian Process](https://github.com/afrojaakter/Surrogate-Based-Optimization)
 
 
-### Day22: 
+### Day23: 
 ***Today's Progress:*** Learned about Naïve Bayes Classifier Algorithm and trained a text classifier.
 
 ***Thoughts:*** 
