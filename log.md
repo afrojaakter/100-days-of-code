@@ -171,3 +171,12 @@
 
 **Link to work:** 
 [Gaussian Process](https://github.com/afrojaakter/Surrogate-Based-Optimization)
+
+
+### Day22: 
+***Today's Progress:*** Learned about Naïve Bayes Classifier Algorithm and trained a text classifier.
+
+***Thoughts:*** 
+
+**Link to work:** 
+[Naïve Bayes Classifier](https://github.com/afrojaakter/Popular-ML-Algorithms/blob/main/Na%C3%AFve_Bayes_Classifier.ipynb)
