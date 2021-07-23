@@ -180,3 +180,12 @@
 
 **Link to work:** 
 [Naïve Bayes Classifier](https://github.com/afrojaakter/Popular-ML-Algorithms/blob/main/Na%C3%AFve_Bayes_Classifier.ipynb)
+
+### Day24: 
+***Today's Progress:*** Followed a tutorial on Multi-fidelity Gaussian Process (MFGP) tutorial and trained a MFGP model on a toy example.
+
+***Thoughts:*** 
+
+**Link to work:** 
+[Multi Fidelity Gaussian Process](https://github.com/afrojaakter/Surrogate-Based-Optimization/blob/main/MultiFidelityGaussianProcess.ipynb)
+
