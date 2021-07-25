@@ -181,7 +181,7 @@
 **Link to work:** 
 [Naïve Bayes Classifier](https://github.com/afrojaakter/Popular-ML-Algorithms/blob/main/Na%C3%AFve_Bayes_Classifier.ipynb)
 
-### Day25: 
+### Day24: 
 ***Today's Progress:*** Worked on K-NN algorithm from scratch and trained and tested on sklearn iris dataset.
 
 **Link to work:** 
