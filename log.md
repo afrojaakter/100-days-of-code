@@ -187,3 +187,9 @@
 **Link to work:** 
 [KNN](https://github.com/afrojaakter/Popular-ML-Algorithms/blob/main/K_NearestNeighbors(K_NN).ipynb)
 
+
+### Day25: 
+***Today's Progress:*** Learned how Support Vector Machine algorithm works and built SVM classifier on Breast Cancer dataset from Kaggle. 
+
+**Link to work:** 
+[SVM](https://github.com/afrojaakter/Popular-ML-Algorithms/blob/main/Support_Vector_Machine.ipynb)
