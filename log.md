@@ -193,3 +193,12 @@
 
 **Link to work:** 
 [SVM](https://github.com/afrojaakter/Popular-ML-Algorithms/blob/main/Support_Vector_Machine.ipynb)
+
+
+### Day26: 
+***Today's Progress:*** Learning more about NLP. Working on a NLP model to generate next character. 
+
+***Thoughts:*** Didn't get to work for one full week. I feel bad about it but there was no time. 
+
+**Link to work:** 
+[Text Generation with RNN](https://github.com/afrojaakter/Natural-Language-Processing/blob/main/TextGenerationRNN.ipynb)
