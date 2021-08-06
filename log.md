@@ -202,3 +202,10 @@
 
 **Link to work:** 
 [Text Generation with RNN](https://github.com/afrojaakter/Natural-Language-Processing/blob/main/TextGenerationRNN.ipynb)
+
+### Day27: 
+***Today's Progress:*** [Learning NLP]. Finished Working on a NLP model with RNN to generate next character. 
+
+**Link to work:** 
+[Text Generation with RNN](https://github.com/afrojaakter/Natural-Language-Processing/blob/main/TextGenerationRNN.ipynb)
+
