@@ -204,8 +204,14 @@
 [Text Generation with RNN](https://github.com/afrojaakter/Natural-Language-Processing/blob/main/TextGenerationRNN.ipynb)
 
 ### Day27: 
-***Today's Progress:*** [Learning NLP]. Finished Working on a NLP model with RNN to generate next character. 
+***Today's Progress:*** [Learning NLP Series]. Finished Working on a NLP model with RNN to generate next character. 
 
 **Link to work:** 
 [Text Generation with RNN](https://github.com/afrojaakter/Natural-Language-Processing/blob/main/TextGenerationRNN.ipynb)
+
+### Day28: 
+***Today's Progress:*** [Learning NLP Series: Translate text with sequence to sequence model] Learning about Neural machine translation with attention, studied the encoder/decoder model. Didn't work on any code today on this project. 
+
+**Link to work:** 
+[Neural machine translation with attentionN]()
 
