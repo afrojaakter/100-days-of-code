@@ -215,3 +215,9 @@
 **Link to work:** 
 [Neural machine translation with attentionN]()
 
+### Day29: 
+***Today's Progress:*** [Learning NLP Series: Translate text with seq2seq model] Worked on text data preprocessing and vectorization part. Read more about encoder/decoder model.
+
+**Link to work:** 
+[Neural machine translation with attentionN]()
+
