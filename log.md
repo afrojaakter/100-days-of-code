@@ -221,3 +221,21 @@
 **Link to work:** 
 [Neural machine translation with attentionN]()
 
+### Day30: 
+***Today's Progress:*** [ML course] Worked on basic data exploration, how ML works, model validation on Iowa House price dataset at Kaggle. 
+
+**Link to work:** 
+[Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+
+### Day31: 
+***Today's Progress:*** [ML course] Worked on model selection (Random Forest) and fine-tune the model (overfitting and underfitting) and submitted the model to the kaggle competition. 
+
+**Link to work:** 
+[Intro to Machine Learning](https://www.kaggle.com/mafrojaakter/housepriceprediction/edit)
+
+### Day32: 
+***Today's Progress:*** [NLP Learning Series] Learned about spaCy and worked on text tokenization, text preprocessing, pattern Matching on the DelFalco's Italian Restaurant dataset from Kaggle. Worked on some text data analysis to find the best and worst items in the menu. 
+
+**Link to work:** 
+[NLP with spaCy](https://www.kaggle.com/mafrojaakter/exercise-intro-to-nlp/edit)
+
