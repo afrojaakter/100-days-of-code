@@ -239,3 +239,10 @@
 **Link to work:** 
 [NLP with spaCy](https://www.kaggle.com/mafrojaakter/exercise-intro-to-nlp/edit)
 
+### Day33: 
+***Today's Progress:*** [NLP Learning Series] Learned about bag of words, TF-IDF. Worked with Bag of Words model to classify samp emails.
+
+**Link to work:** 
+[classify spam emails](https://www.kaggle.com/matleonard/text-classification)
+
+
