@@ -245,4 +245,10 @@
 **Link to work:** 
 [classify spam emails](https://www.kaggle.com/matleonard/text-classification)
 
+### Day34: 
+***Today's Progress:*** [ML Practice Series] Worked on the model fine tuning to get better accuracy on Kaggle 30days ML. 
+
+**Link to work:** 
+[30 Days of ML](https://www.kaggle.com/mafrojaakter/30-days-of-ml-competition?scriptVersionId=72176509)
+
 
