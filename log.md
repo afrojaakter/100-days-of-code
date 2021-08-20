@@ -251,4 +251,14 @@
 **Link to work:** 
 [30 Days of ML](https://www.kaggle.com/mafrojaakter/30-days-of-ml-competition?scriptVersionId=72176509)
 
+### Day35: 
+***Today's Progress:*** [ML Practice Series] Worked on Kaggle 30days ML challenge. 
 
+**Link to work:** 
+[30 Days of ML challenge](https://www.kaggle.com/mafrojaakter/30daysml?scriptVersionId=72466178)
+
+### Day36: 
+***Today's Progress:*** [ML Practice Series] Worked on Kaggle 30days ML challenge. 
+
+**Link to work:** 
+[30 Days of ML challenge](https://www.kaggle.com/mafrojaakter/30daysml?scriptVersionId=72530096)
