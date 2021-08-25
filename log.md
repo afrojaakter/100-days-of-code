@@ -262,3 +262,9 @@
 
 **Link to work:** 
 [30 Days of ML challenge](https://www.kaggle.com/mafrojaakter/30daysml?scriptVersionId=72530096)
+
+### Day37: 
+***Today's Progress:*** [ML Practice Series] Worked on Kaggle 30days ML challenge. Experimented with few different feature engineering technique. 
+
+**Link to work:** 
+[30 Days of ML challenge](https://www.kaggle.com/mafrojaakter/30daysml-optuna-kfold-xgb?scriptVersionId=72852739)
