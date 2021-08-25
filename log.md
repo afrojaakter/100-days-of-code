@@ -268,3 +268,9 @@
 
 **Link to work:** 
 [30 Days of ML challenge](https://www.kaggle.com/mafrojaakter/30daysml-optuna-kfold-xgb?scriptVersionId=72852739)
+
+### Day38: 
+***Today's Progress:*** [ML Practice Series] Worked on Kaggle 30days ML challenge. Used optuna for best hyper-parameter search. Got some improved results. 
+
+**Link to work:** 
+[30 Days of ML challenge](https://www.kaggle.com/mafrojaakter/30daysml-optuna-bestparams-kfold-xgb?scriptVersionId=73045961)
