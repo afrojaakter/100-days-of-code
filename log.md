@@ -280,4 +280,5 @@
 
 **Link to work:** 
 [30 Days of ML challenge](https://www.kaggle.com/mafrojaakter/30daysml-blending-10fold-xgb?scriptVersionId=73441837)
+or https://www.kaggle.com/mafrojaakter/optunahyperparametersearch-lgbmr/edit
 
