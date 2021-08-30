@@ -274,3 +274,10 @@
 
 **Link to work:** 
 [30 Days of ML challenge](https://www.kaggle.com/mafrojaakter/30daysml-optuna-bestparams-kfold-xgb?scriptVersionId=73045961)
+
+### Day39: 
+***Today's Progress:*** [ML Practice Series] Worked on Kaggle 30days ML challenge. Used Blending technique and got some improved results. 
+
+**Link to work:** 
+[30 Days of ML challenge](https://www.kaggle.com/mafrojaakter/30daysml-blending-10fold-xgb?scriptVersionId=73441837)
+
