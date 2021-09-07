@@ -287,7 +287,7 @@ or https://www.kaggle.com/mafrojaakter/optunahyperparametersearch-lgbmr/edit
 2. Worked on Kaggle competition 'Tabular Playground Series - Sep 2021'
 
 **Link to work:** 
-[30 Days of ML challenge](https://www.kaggle.com/mafrojaakter/30daysml-blending-10fold-xgb?scriptVersionId=73441837)
+1. [30 Days of ML challenge](https://www.kaggle.com/mafrojaakter/30daysml-blending-10fold-xgb?scriptVersionId=73441837)
 or https://www.kaggle.com/mafrojaakter/optunahyperparametersearch-lgbmr/edit
-[Tabular Playground Series - Sep 2021](https://www.kaggle.com/mafrojaakter/september-2021-tabular) or https://github.com/afrojaakter/Kaggle-Competitions/blob/main/September%202021%20Tabular/september-2021-tabular.ipynb
+2. [Tabular Playground Series - Sep 2021](https://www.kaggle.com/mafrojaakter/september-2021-tabular) or https://github.com/afrojaakter/Kaggle-Competitions/blob/main/September%202021%20Tabular/september-2021-tabular.ipynb
 
