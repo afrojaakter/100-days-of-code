@@ -291,3 +291,8 @@ or https://www.kaggle.com/mafrojaakter/optunahyperparametersearch-lgbmr/edit
 or https://www.kaggle.com/mafrojaakter/optunahyperparametersearch-lgbmr/edit
 2. [Tabular Playground Series - Sep 2021](https://www.kaggle.com/mafrojaakter/september-2021-tabular) or https://github.com/afrojaakter/Kaggle-Competitions/blob/main/September%202021%20Tabular/september-2021-tabular.ipynb
 
+### Day41: 
+***Today's Progress:*** Worked on Kaggle competition 'Tabular Playground Series - Sep 2021' with keras and tensorflow and got better result. 
+
+**Link to work:** [Tabular Playground Series - Sep 2021](https://www.kaggle.com/mafrojaakter/sep-2021tabular-tensorflow) or https://github.com/afrojaakter/Kaggle-Competitions/blob/main/September%202021%20Tabular/sep-2021tabular-tensorflow.ipynb
+
