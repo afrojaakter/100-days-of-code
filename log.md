@@ -296,3 +296,38 @@ or https://www.kaggle.com/mafrojaakter/optunahyperparametersearch-lgbmr/edit
 
 **Link to work:** [Tabular Playground Series - Sep 2021](https://www.kaggle.com/mafrojaakter/sep-2021tabular-tensorflow) or https://github.com/afrojaakter/Kaggle-Competitions/blob/main/September%202021%20Tabular/sep-2021tabular-tensorflow.ipynb
 
+### Day42: 
+***Today's Progress:*** Worked on Kaggle competition 'Tabular Playground Series - Sep 2021'. 
+
+**Link to work:** [Tabular Playground Series - Sep 2021](https://www.kaggle.com/mafrojaakter/sep-2021tabular-tensorflow) or https://github.com/afrojaakter/Kaggle-Competitions/blob/main/September%202021%20Tabular/sep-2021tabular-tensorflow_version2.ipynb
+
+### Day43: 
+***Today's Progress:*** Worked on Kaggle competition 'Tabular Playground Series - Sep 2021'.
+
+**Link to work:** [Tabular Playground Series - Sep 2021](https://github.com/afrojaakter/Kaggle-Competitions/blob/main/September%202021%20Tabular/tabularsep21-stacking.ipynb) 
+
+### Day44: 
+***Today's Progress:*** Worked on Kaggle competition 'Tabular Playground Series - Sep 2021'.
+
+**Link to work:** [Tabular Playground Series - Sep 2021](https://github.com/afrojaakter/Kaggle-Competitions/blob/main/September%202021%20Tabular/tabularsep21-stacking.ipynb) 
+
+### Day45: 
+***Today's Progress:*** Worked on Kaggle competition 'Tabular Playground Series - Sep 2021' for find best hyperparameters using optuna.
+
+**Link to work:** [Tabular Playground Series - Sep 2021](https://github.com/afrojaakter/Kaggle-Competitions/blob/main/September%202021%20Tabular/tabularsep21-optunabestparamsearch.ipynb)
+
+### Day46: 
+***Today's Progress:*** Worked on Kaggle competition 'Tabular Playground Series - Sep 2021' using Deep Neural Network. 
+
+**Link to work:** [Tabular Playground Series - Sep 2021](https://github.com/afrojaakter/Kaggle-Competitions/blob/main/September%202021%20Tabular/tabularsep21-NeuralNetworkModel.ipynb)
+
+### Day47: 
+***Today's Progress:*** Continued to work 'Tabular Playground Series - Sep 2021' using Deep Neural Network. 
+
+**Link to work:** [Tabular Playground Series - Sep 2021](https://github.com/afrojaakter/Kaggle-Competitions/blob/main/September%202021%20Tabular/tabularsep21-neuralnetwork.ipynb)
+
+### Day48: 
+***Today's Progress:*** Continued to work 'Tabular Playground Series - Sep 2021' using blending method. 
+
+**Link to work:** [Tabular Playground Series - Sep 2021](https://github.com/afrojaakter/Kaggle-Competitions/blob/main/September%202021%20Tabular/sep21-tab-stacking.ipynb)
+
