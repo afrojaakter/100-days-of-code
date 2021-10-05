@@ -331,3 +331,8 @@ or https://www.kaggle.com/mafrojaakter/optunahyperparametersearch-lgbmr/edit
 
 **Link to work:** [Tabular Playground Series - Sep 2021](https://github.com/afrojaakter/Kaggle-Competitions/blob/main/September%202021%20Tabular/sep21-tab-stacking.ipynb)
 
+### Day49: 
+***Today's Progress:*** Started working on simple speech recognition project. So far worked on data labeling and converted data waveform into a spectrogram. 
+
+**Link to work:** [Speech Recognition](https://github.com/afrojaakter/MLAutomatic-Speech-Recognition/blob/main/Audio_recognition.ipynb)
+
