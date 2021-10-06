@@ -336,3 +336,8 @@ or https://www.kaggle.com/mafrojaakter/optunahyperparametersearch-lgbmr/edit
 
 **Link to work:** [Speech Recognition](https://github.com/afrojaakter/MLAutomatic-Speech-Recognition/blob/main/Audio_recognition.ipynb)
 
+### Day50: 
+***Today's Progress:*** Finished working a on simple speech recognition task of recognizing few words. Today worked on converting the waveform to spectrogram, building DL model, prediction and evaluation part.
+
+**Link to work:** [Speech Recognition](https://github.com/afrojaakter/MLAutomatic-Speech-Recognition/blob/main/Audio_recognition.ipynb)
+
